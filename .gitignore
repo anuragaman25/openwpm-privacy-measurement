@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Conda / Virtualenv
+.env
+venv/
+.env/
+
+# Node
+node_modules/
+
+# OpenWPM artifacts
+firefox-bin/
+datadir/
+*.sqlite
+*.db
+
+# OS
+.DS_Store

@@ -29,7 +29,7 @@ This repository documents the complete setup, configuration, and validation of *
 
 The complete step-by-step setup and validation report is available here:
 
-📘 **[OpenWPM Detailed Report](docs/OpenWPM-Report.md)**
+📘 **[OpenWPM Detailed Report](docs/OpenWPM-Report.pdf)**
 
 ## 📌 Use Cases
 
